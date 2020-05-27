@@ -1,0 +1,50 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/record/record",
+    "pages/chart/chart",
+    "pages/user/user"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "随记生活",
+    "navigationBarBackgroundColor": "#fedb5a",
+    "backgroundColor": "#fedb5a",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "color": "#ADADAD",
+    "selectedColor": "#fedb5a",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/images/home.png",
+        "selectedIconPath": "static/images/home@active.png"
+      },
+      {
+        "pagePath": "pages/record/record",
+        "text": "记录",
+        "iconPath": "static/images/record.png",
+        "selectedIconPath": "static/images/record@active.png"
+      },
+      {
+        "pagePath": "pages/chart/chart",
+        "text": "报表",
+        "iconPath": "static/images/chart.png",
+        "selectedIconPath": "static/images/chart@active.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "个人",
+        "iconPath": "static/images/user.png",
+        "selectedIconPath": "static/images/user@active.png"
+      }
+    ]
+  },
+  "permission": {},
+  "usingComponents": {}
+}

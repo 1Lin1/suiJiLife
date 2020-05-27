@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "chart-list-item": "/components/content/chart/chartListItem"
+  },
+  "component": true
+}

@@ -1,0 +1,61 @@
+{
+	"icon_url":"cloud://lin-serve-lh.6c69-lin-serve-lh-1302184692/typeimge/type1.png",
+	"title":"餐饮",
+	"type":"canyin",
+	"money":1000
+}
+{
+	"icon_url":"cloud://lin-serve-lh.6c69-lin-serve-lh-1302184692/typeimge/type2.png",
+	"title":"购物",
+	"type":"gouwu",
+	"money":3020
+}
+{
+	"icon_url":"cloud://lin-serve-lh.6c69-lin-serve-lh-1302184692/typeimge/type3.png",
+	"title":"出行",
+	"type":"chuxing",
+	"money":10434
+}
+{
+	"icon_url":"cloud://lin-serve-lh.6c69-lin-serve-lh-1302184692/typeimge/type4.png",
+	"title":"健康",
+	"type":"jiankang",
+	"money":35534
+}
+{
+	"icon_url":"cloud://lin-serve-lh.6c69-lin-serve-lh-1302184692/typeimge/type5.png",
+	"title":"娱乐",
+	"type":"yule",
+	"money":1242
+}
+{
+	"icon_url":"cloud://lin-serve-lh.6c69-lin-serve-lh-1302184692/typeimge/type6.png",
+	"title":"住房",
+	"type":"zhufang",
+	"money":12424
+}
+{
+	"icon_url":"cloud://lin-serve-lh.6c69-lin-serve-lh-1302184692/typeimge/type7.png",
+	"title":"人情",
+	"type":"renqing",
+	"money":10242
+}
+{
+	"icon_url":"cloud://lin-serve-lh.6c69-lin-serve-lh-1302184692/typeimge/type8.png",
+	"title":"交通",
+	"type":"jiaotong",
+	"money":10325
+}
+{
+	"icon_url":"cloud://lin-serve-lh.6c69-lin-serve-lh-1302184692/typeimge/type9.png",
+	"title":"学习",
+	"type":"xuexi",
+	"money":10352
+}
+{
+	"icon_url":"cloud://lin-serve-lh.6c69-lin-serve-lh-1302184692/typeimge/type10.png",
+	"title":"其他",
+	"type":"qita",
+	"money":12553
+}
+

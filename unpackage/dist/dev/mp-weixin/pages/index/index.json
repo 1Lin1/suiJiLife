@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "随记生活",
+  "usingComponents": {
+    "top-money": "/components/content/index/topMoney",
+    "center-record": "/components/content/index/center-record"
+  }
+}

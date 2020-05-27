@@ -1,0 +1,1 @@
+<view class="chartList  data-v-24a9a110"><block wx:for="{{detailData}}" wx:for-item="item" wx:for-index="index" wx:key="_id"><block class="data-v-24a9a110"><chart-list-item vue-id="{{'68d7c71c-1-'+index}}" itemData="{{item}}" class="data-v-24a9a110" bind:__l="__l"></chart-list-item></block></block></view>

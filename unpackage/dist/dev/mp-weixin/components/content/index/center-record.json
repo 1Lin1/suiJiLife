@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "center-record-top": "/components/content/index/center-record-top",
+    "record-list": "/components/content/index/record-list"
+  }
+}

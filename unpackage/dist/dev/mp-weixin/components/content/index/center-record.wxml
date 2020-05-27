@@ -1,0 +1,1 @@
+<view class="center-record data-v-5d8d83b1"><center-record-top vue-id="209d359b-1" class="data-v-5d8d83b1" bind:__l="__l"></center-record-top><record-list vue-id="209d359b-2" recordList="{{recordList}}" class="data-v-5d8d83b1" bind:__l="__l"></record-list></view>

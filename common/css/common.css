@@ -1,0 +1,32 @@
+image{
+	border: none;
+	vertical-align: middle;
+}
+.u-f{
+	display: flex;
+}
+.u-f-jb{
+	display: flex;
+	justify-content: space-between;
+}
+.u-f-ac{
+	display: flex;
+	align-items: center;
+}
+.u-f-ajc{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.u-f-ajs {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.u-f-aje{
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}

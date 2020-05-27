@@ -1,0 +1,1 @@
+<view class="record-list"><block wx:for="{{recordList}}" wx:for-item="item" wx:for-index="__i0__" wx:key="id"><block><record-item vue-id="{{'50cd642c-1-'+__i0__}}" itemData="{{item}}" bind:__l="__l"></record-item></block></block></view>

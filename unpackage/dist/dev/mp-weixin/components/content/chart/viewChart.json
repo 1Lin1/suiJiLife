@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tar-chart": "/components/content/chart/tarChart",
+    "u-charts-cpn": "/components/content/chart/uChartscpn"
+  }
+}

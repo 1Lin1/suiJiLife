@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "top-swiper": "/components/content/record/topSwiper",
+    "tab-bar": "/components/common/tabBar",
+    "user-choice": "/components/content/record/userChoice",
+    "date-choice": "/components/content/record/date-Choice"
+  }
+}

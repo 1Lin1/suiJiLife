@@ -1,0 +1,66 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "随记生活"
+			}
+		}
+	    ,{
+            "path" : "pages/record/record",
+            "style" : {
+					"navigationBarTitleText": ""
+			}
+        }
+        ,{
+            "path" : "pages/chart/chart",
+            "style" : {
+				"enablePullDownRefresh":false
+			}
+        }
+        ,{
+            "path" : "pages/user/user",
+            "style" : {}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "随记生活",
+		"navigationBarBackgroundColor": "#fedb5a",
+		"backgroundColor": "#fedb5a", //下拉颜色
+		"enablePullDownRefresh":true
+		
+	},
+	
+	"tabBar": {
+		"color": "#ADADAD",
+		"selectedColor": "#fedb5a",
+		"backgroundColor": "#FFFFFF",
+		"borderStyle":"black",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"text": "首页",
+				"iconPath": "static/images/home.png",
+				"selectedIconPath": "static/images/home@active.png"
+			},
+			{
+				"pagePath": "pages/record/record",
+				"text": "记录",
+				"iconPath": "static/images/record.png",
+				"selectedIconPath": "static/images/record@active.png"
+			},
+			{
+				"pagePath": "pages/chart/chart",
+				"text": "报表",
+				"iconPath": "static/images/chart.png",
+				"selectedIconPath": "static/images/chart@active.png"
+			},
+			{
+				"pagePath": "pages/user/user",
+				"text": "个人",
+				"iconPath": "static/images/user.png",
+				"selectedIconPath": "static/images/user@active.png"
+			}
+		]
+	}
+}

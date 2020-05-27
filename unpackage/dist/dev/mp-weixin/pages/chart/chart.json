@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "view-chart": "/components/content/chart/viewChart",
+    "chart-list": "/components/content/chart/chartList"
+  }
+}
